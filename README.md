@@ -1,7 +1,7 @@
 # MovieBrowserApp
 
 # Concept include in this application
-* Single activity based
+* Single activity based architecture
 * MVVM architecture With combination of repository pattern
 * Rest API implementation
 * network response caching using retrofit
@@ -11,5 +11,5 @@
 * Kotlin flows
 * Kotlin coroutines
 * Recycler view
-* data filtering
-* Glide image caching librar
+* searchview data filtering
+* Glide image caching library
