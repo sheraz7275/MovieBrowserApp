@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieBrowser</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="strImageViewDetail">Movie Label</string>
+    <string name="strOverView">Movie OverView:</string>
+    <string name="ReleaseDate">Release Date:</string>
+    <string name="strVoteAverage">Vote Average:</string>
+</resources>

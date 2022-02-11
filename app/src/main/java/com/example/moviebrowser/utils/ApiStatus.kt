@@ -1,0 +1,1 @@
+package com.example.moviebrowser.utilsenum class ApiStatus {    Loading,Error,Success}
