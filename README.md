@@ -1,7 +1,7 @@
 # MovieBrowserApp
 
-Concept include in this application
-• Single activity based
+# Concept include in this application
+* Single activity based
 • MVVM architecture With combination of repository pattern
 • Rest API implementation
 • network response caching using retrofit
