@@ -5,4 +5,5 @@
     <string name="strOverView">Movie OverView:</string>
     <string name="ReleaseDate">Release Date:</string>
     <string name="strVoteAverage">Vote Average:</string>
+    <string name="strMovieName">Movie Name</string>
 </resources>

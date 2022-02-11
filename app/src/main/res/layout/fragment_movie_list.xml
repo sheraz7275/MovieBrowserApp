@@ -22,6 +22,7 @@
             <androidx.appcompat.widget.SearchView
                 android:id="@+id/editSearchView"
                 android:layout_width="match_parent"
+                app:defaultQueryHint="@string/strMovieName"
                 android:layout_height="match_parent">
             </androidx.appcompat.widget.SearchView>
 
