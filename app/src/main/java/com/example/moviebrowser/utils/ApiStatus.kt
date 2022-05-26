@@ -1,1 +1,1 @@
-package com.example.moviebrowser.utilsenum class ApiStatus {    Loading,Error,Success}
+package com.example.moviebrowser.utilssealed class ApiStatus<out R>{    data class Success<out T>(val data: T) : ApiStatus<T>()    data class Error(val exception: String?) : ApiStatus<Nothing>()    object Loading : ApiStatus<Nothing>()}

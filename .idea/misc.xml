@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Active Workspace/MovieBrowser/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Active Workspace/MovieBrowser/app/src/main/res/layout/fragment_movie_detail.xml" value="0.22826086956521738" />
+        <entry key="..\:/Active Workspace/MovieBrowser/app/src/main/res/layout/fragment_movie_list.xml" value="0.22826086956521738" />
+        <entry key="..\:/Active Workspace/MovieBrowser/app/src/main/res/layout/item_movie.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/Ahmad Sheraz/Desktop/Workspace/MovieBrowser/app/src/main/res/drawable/cursor.xml" value="0.1315" />
         <entry key="..\:/Users/Ahmad Sheraz/Desktop/Workspace/MovieBrowser/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
         <entry key="..\:/Users/Ahmad Sheraz/Desktop/Workspace/MovieBrowser/app/src/main/res/layout/app_bar.xml" value="0.1" />
